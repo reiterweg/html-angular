@@ -1,0 +1,33 @@
+{
+  "name": "Reiterweg",
+  "email": "reiterweg@gmail.com",
+  "short_name": "Reiterweg",
+  "author_page": "https://about.me/reiterweg",
+  "facebook": "reiterweg",
+  "twitter": "reiterweg",
+  "instagram": "reiterweg",
+  "tumblr": "reiterweg",
+  "work_team": [
+    {
+      "name": "Robert T. Williams",
+      "ocupation": "Graphic Designer",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+      "twitter": "robertwilliams",
+      "image_url": "assets/img/team-1.jpg"
+    },
+    {
+      "name": "Angelina B. Widow",
+      "ocupation": "Founder / CEO",
+      "description": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+      "twitter": "angelinawidow",
+      "image_url": "assets/img/team-2.jpg"
+    },
+    {
+      "name": "Patrick Anderson",
+      "ocupation": "Art Director",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "twitter": "patrickanderson",
+      "image_url": "assets/img/team-3.jpg"
+    }
+  ]
+}
