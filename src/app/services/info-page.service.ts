@@ -26,7 +26,7 @@ export class InfoPageService {
   }
 
   private loadWorkTeam() {
-    this._http.get('https://html-angular-18097.firebaseio.com/work-team.json')
+    this._http.get('https://html-angular-18097.firebaseio.com/work_team.json')
       .subscribe((response: WorkTeam[]) => {
         this.workTeam = response;
       });
