@@ -1,6 +1,13 @@
-# HtmlAngular
+# HTML Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+
+## Resources
+
+* [Urku portfolio template](https://www.pixeden.com/html5-website-templates/urku-html5-portfolio-website/)
+* [Animate.css](https://daneden.github.io/animate.css/)
+* [SVG loading](https://codepen.io/Klerith/pen/RZpwKm/)
+* Firebase resources can be found in the `resources` folder.
 
 ## Development server
 
